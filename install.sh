@@ -3,7 +3,7 @@ set -e
 
 SKILL_NAME="midnight-dapp-skill"
 SKILL_DIR="$HOME/.claude/skills/$SKILL_NAME"
-REPO_URL="https://github.com/hummusonrails/midnight-dapp-skill.git"
+REPO_URL="https://github.com/OverGuild/midnight-dapp-skill.git"
 
 echo "Installing $SKILL_NAME skill for Claude Code..."
 

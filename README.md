@@ -28,7 +28,7 @@ This skill gives Claude Code deep knowledge of the Midnight development stack so
 ## Quick Start
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/hummusonrails/midnight-dapp-skill/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/OverGuild/midnight-dapp-skill/main/install.sh)
 ```
 
 Then start Claude Code and ask it to build something:
